@@ -2,4 +2,4 @@ files:
   - source: '/testfiles/en/*.mo,*.po*,.tmx'
     ignore:
       - /testfiles/en/*.md
-    translation: /folder/%locale%/
+    translation: /folder/%locale%/%original_file_name%
