@@ -1,0 +1,5 @@
+files:
+  - source: '/testfiles/en/*.mo,*.po*,.tmx'
+    ignore:
+      - /testfiles/en/*.md
+    translation: /folder/%locale%/
