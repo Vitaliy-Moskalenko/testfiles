@@ -1,5 +1,3 @@
 files:
-  - source: '/testfiles/en/*.mo,*.po*,.tmx'
-    ignore:
-      - /testfiles/en/*.md
-    translation: /folder/%locale%/%file_extension%
+  - source: '*.*'
+    translation: /testfiles/%two_letters_code%/%file_name%
