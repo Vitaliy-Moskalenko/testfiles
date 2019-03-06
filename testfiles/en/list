@@ -1,23 +1,23 @@
 <?= $this->headTitle() ?>
 
 <div id="adminHeader">
-	<h2> Blog Administration</h2>
+	<h2>Администрирование Блога</h2>
 </div>
 
-	Create New Post
+	<a class="btn btn-primary" href="<?= $this->baseUrl() ?>/admin/blog/create">Создать новую публикацию</a>
 	
 	<br/><br/>
 
 <table class='spreadsheet'>
 	<tr>
 		<th>Links</th>
-		<th style="max-width:40px;">Publication date</th>
-		<th>Headline</th>
+		<th style="max-width:40px;">Дата публикации</th>
+		<th>Заголовок</th>
 		<th>Summary</th>
-		<th>Full post text</th>
-		<th>Image</th>
-		<th>Status</th>
-		<th>Category</th>
+		<th>Полный текст поста</th>
+		<th>Изображение</th>
+		<th>Статус</th>
+		<th>Категория</th>
 	</tr>
 	
 	<?php foreach($this->blogPosts as $post) { ?>
@@ -25,11 +25,11 @@
 		<tr>
 			<td class="links text-center">
 			  <div class="td">	
-				<a class="btn btn-default" href='<?= $this->baseUrl('/admin/blog/update/id/').$post->bp_post_id ?>'>Edit</a>
+				<a class="btn btn-default" href='<?= $this->baseUrl('/admin/blog/update/id/').$post->bp_post_id ?>'>Правка</a>
 				<br/><br/>
 				<a class="btn btn-default"
 				   href="<?= $this->baseUrl('/admin/blog/delete/id/').$post->bp_post_id ?>"
-				   onclick = "return confirm (' Delete post <? =? $post->bp_headline >:\n you sure? ');" >
+				   onclick="return confirm('Удаляем пост : <?= $post->bp_headline ?> :\n Вы уверены?');">
 					  Удалить
 				</a>
 			  </div>	
@@ -39,7 +39,7 @@
 			<td class="td-summary"><div class="td"><?= $post->bp_summary ?></div></td>
 			<td class="td-content"><div class="td"><?= $post->bp_content ?></div></td>
 			<td><div class="td"><?= $post->bp_image ?></div></td>
-			<td><div class="td"><?= $post->bp_status == 1 ? ' Published ', ' Draft ';? </div> > </td>
+			<td><div class="td"><?= $post->bp_status == 1 ? 'Опубликовано' : 'Черновик'; ?></div></td>
 			<td><div class="td"><?= $post->bp_category ?></div></td>
 		</tr>	
 	
