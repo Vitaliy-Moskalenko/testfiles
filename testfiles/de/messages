@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: egotech-localization\n"
+"POT-Creation-Date: 2018-01-16 13:38+0400\n"
+"PO-Revision-Date: 2019-03-06 11:05\n"
+"Last-Translator: YuliaOv <yulia.ovchinnikova@egotranslating.ru>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Crowdin-Project: egotech-localization\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /master/de/messages.po\n"
+
+#: index.phtml:15
+msgid "Современный перевод"
+msgstr ""
+
+#: index.phtml:17
+msgid "БЫСТРО"
+msgstr ""
+
+#: index.phtml:18
+msgid "НАДЕЖНО"
+msgstr ""
+
+#: index.phtml:19
+msgid "ТЕХНОЛОГИЧНО"
+msgstr ""
+
+#: index.phtml:25
+msgid "Наши Услуги"
+msgstr ""
+
+#: index.phtml:30
+msgid "Перевод"
+msgstr ""
+
+#: index.phtml:31
+msgid "Мы предоставляем весь спектр услуг в области перевода - от транскреации до транслитерации."
+msgstr ""
+
+#: index.phtml:32 index.phtml:39 index.phtml:48
+msgid "Подробнее"
+msgstr ""
+
+#: index.phtml:36
+msgid "Локализация"
+msgstr ""
+
+#: index.phtml:37
+msgid "В условиях глобализации развитие бизнеса невозможно без адаптированных решений. Мы имеем большой опыт локализации любых решений:\n"
+"                       от веб-сайтов до мобильных приложений."
+msgstr ""
+
+#: index.phtml:43
+msgid "Технологии"
+msgstr ""
+
+#: index.phtml:44
+msgid "Современный перевод невозможен без использования технологий. При переводе и локализации мы используем собственные программные решения."
+msgstr ""
+
+#: index.phtml:46
+msgid "Также Вы можете использовать автоматизированные решения, заказав разработку"
+msgstr ""
+
+#: index.phtml:47
+msgid "у нас"
+msgstr ""
+
+#: index.phtml:56
+msgid "Рассчитать стоимость перевода"
+msgstr ""
+
+#: index.phtml:63
+msgid "Введите "
+msgstr ""
+
+#: index.phtml:69
+msgid "Язык источника"
+msgstr ""
+
+#: index.phtml:76
+msgid "Язык перевода"
+msgstr ""
+
+#: index.phtml:86
+msgid "Перевести сейчас"
+msgstr ""
+
+#: index.phtml:95 master.phtml:175
+msgid "Новости"
+msgstr ""
+
+#: index.phtml:115
+msgid "Наша команда"
+msgstr ""
+
+#: index.phtml:115
+msgid "Мы разработаем решение для вас"
+msgstr ""
+
+#: index.phtml:121
+msgid "Ирина Шахметова"
+msgstr ""
+
+#: index.phtml:122
+msgid "Старший менеджер-редактор"
+msgstr ""
+
+#: index.phtml:126
+msgid "Виталий Москаленко"
+msgstr ""
+
+#: index.phtml:127
+msgid "Старший программист/лингвист"
+msgstr ""
+
+#: index.phtml:132
+msgid "Елена Дарек"
+msgstr ""
+
+#: index.phtml:133
+msgid "Руководитель группы локализации"
+msgstr ""
+
+#: index.phtml:137
+msgid "Елизавета Иванова"
+msgstr ""
+
+#: index.phtml:138
+msgid "Начальник отдела технического развития"
+msgstr ""
+
+#: index.phtml:147
+msgid "Узнать больше"
+msgstr ""
+
+#: master.phtml:75
+msgid "Мы Здесь (812) 212-85-06"
+msgstr ""
+
+#: master.phtml:88
+msgid "Выход"
+msgstr ""
+
+#: master.phtml:90 master.phtml:196
+msgid "Вход"
+msgstr ""
+
+#: master.phtml:91
+msgid "Регистрация"
+msgstr ""
+
+#: master.phtml:106
+msgid "Сообщить об ошибке"
+msgstr ""
+
+#: master.phtml:111
+msgid "ЛОКАЛИЗАЦИЯ"
+msgstr ""
+
+#: master.phtml:113
+msgid "УСЛУГИ ЛОКАЛИЗАЦИИ"
+msgstr ""
+
+#: master.phtml:114
+msgid "ЛОКАЛИЗАЦИЯ ВЕБ САЙТОВ"
+msgstr ""
+
+#: master.phtml:115
+msgid "ЛОКАЛИЗАЦИЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ"
+msgstr ""
+
+#: master.phtml:116
+msgid "ЛОКАЛИЗАЦИЯ КОМПЬЮТЕРНЫХ ИГР"
+msgstr ""
+
+#: master.phtml:117
+msgid "ЛОКАЛИЗАЦИЯ МУЛЬТИМЕДИА"
+msgstr ""
+
+#: master.phtml:118
+msgid "ТРАНСКРЕАЦИЯ"
+msgstr ""
+
+#: master.phtml:122
+msgid "ПЕРЕВОД"
+msgstr ""
+
+#: master.phtml:125
+msgid "УСЛУГИ ПЕРЕВОДА"
+msgstr ""
+
+#: master.phtml:126
+msgid "КЛАССИЧЕСКИЙ ПРЕВОД"
+msgstr ""
+
+#: master.phtml:127
+msgid "ЛЕКСИКОГРАФИЯ"
+msgstr ""
+
+#: master.phtml:130 master.phtml:131
+msgid "ПЕРЕВОД ОНЛАЙН"
+msgstr ""
+
+#: master.phtml:133
+msgid "ТЕХНОЛОГИИ"
+msgstr ""
+
+#: master.phtml:135
+msgid "НАШИ ТЕХНОЛОГИИ"
+msgstr ""
+
+#: master.phtml:136
+msgid "СТЕММЕР"
+msgstr ""
+
+#: master.phtml:137
+msgid "QA-ТЕРМИНОЛОГИЯ"
+msgstr ""
+
+#: master.phtml:138
+msgid "QA-ПРОВЕРКА"
+msgstr ""
+
+#: master.phtml:139
+msgid "КОНТРОЛЬ КАЧЕСТВА"
+msgstr ""
+
+#: master.phtml:140
+msgid "TEXT TOKENIZER"
+msgstr ""
+
+#: master.phtml:141
+msgid "ОЧИСТКА ОТ ТЕГОВ"
+msgstr ""
+
+#: master.phtml:142
+msgid "TMX ПРОЦЕССОР"
+msgstr ""
+
+#: master.phtml:143
+msgid "РАСПОЗНАВАНИЕ РЕЧИ"
+msgstr ""
+
+#: master.phtml:144
+msgid "АНАЛИЗАТОР СИНТАКСИСА"
+msgstr ""
+
+#: master.phtml:145
+msgid "ЧАСТОТНЫЙ СЛОВАРЬ"
+msgstr ""
+
+#: master.phtml:149 master.phtml:150
+msgid "НОВОСТИ"
+msgstr ""
+
+#: master.phtml:152
+msgid "БЛОГИ"
+msgstr ""
+
+#: master.phtml:153
+msgid "О НАС"
+msgstr ""
+
+#: master.phtml:154
+msgid "КОНТАКТЫ"
+msgstr ""
+
+#: master.phtml:169
+msgid "Контакты"
+msgstr ""
+
+#: master.phtml:172
+msgid "Карта сайта"
+msgstr ""
+
+#: master.phtml:203 master.phtml:239
+msgid "Пароль"
+msgstr ""
+
+#: master.phtml:227
+msgid "Фамилия"
+msgstr ""
+
+#: master.phtml:231
+msgid "Имя"
+msgstr ""
+
+#: master.phtml:243
+msgid "Подтверждение"
+msgstr ""
+
