@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: egotech-localization\n"
 "POT-Creation-Date: 2018-01-16 13:38+0400\n"
-"PO-Revision-Date: 2019-03-06 13:16\n"
+"PO-Revision-Date: 2019-03-06 14:09\n"
 "Last-Translator: YuliaOv <yulia.ovchinnikova@egotranslating.ru>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -15,286 +15,287 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Crowdin-Project: egotech-localization\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /master/en/messages.po\n"
+"X-Crowdin-File: /master/de/messages.po\n"
 
 #: index.phtml:15
 msgid "Современный перевод"
-msgstr ""
+msgstr "Modern translation"
 
 #: index.phtml:17
 msgid "БЫСТРО"
-msgstr ""
+msgstr "FAST"
 
 #: index.phtml:18
 msgid "НАДЕЖНО"
-msgstr ""
+msgstr "SECURELY"
 
 #: index.phtml:19
 msgid "ТЕХНОЛОГИЧНО"
-msgstr ""
+msgstr "TECHNOLOGICALLY"
 
 #: index.phtml:25
 msgid "Наши Услуги"
-msgstr ""
+msgstr "Our Services"
 
 #: index.phtml:30
 msgid "Перевод"
-msgstr ""
+msgstr "Translated"
 
 #: index.phtml:31
 msgid "Мы предоставляем весь спектр услуг в области перевода - от транскреации до транслитерации."
-msgstr ""
+msgstr "We offer a full range of services in the field of translation from transkreacii to transliteration."
 
 #: index.phtml:32 index.phtml:39 index.phtml:48
 msgid "Подробнее"
-msgstr ""
+msgstr "Learn more"
 
 #: index.phtml:36
 msgid "Локализация"
-msgstr ""
+msgstr "Localization"
 
 #: index.phtml:37
 msgid "В условиях глобализации развитие бизнеса невозможно без адаптированных решений. Мы имеем большой опыт локализации любых решений:\n"
 "                       от веб-сайтов до мобильных приложений."
-msgstr ""
+msgstr "In the context of globalization, business development is impossible without adapted solutions. We have extensive experience localizing any solutions:\n"
+"                       from websites to mobile applications."
 
 #: index.phtml:43
 msgid "Технологии"
-msgstr ""
+msgstr "Technology"
 
 #: index.phtml:44
 msgid "Современный перевод невозможен без использования технологий. При переводе и локализации мы используем собственные программные решения."
-msgstr ""
+msgstr "Modern translation is impossible without the use of technology. When translating and localizing, we use our own software solutions."
 
 #: index.phtml:46
 msgid "Также Вы можете использовать автоматизированные решения, заказав разработку"
-msgstr ""
+msgstr "You can also use automated solutions by ordering the development"
 
 #: index.phtml:47
 msgid "у нас"
-msgstr ""
+msgstr "from us"
 
 #: index.phtml:56
 msgid "Рассчитать стоимость перевода"
-msgstr ""
+msgstr "Calculate the translation cost"
 
 #: index.phtml:63
 msgid "Введите "
-msgstr ""
+msgstr "Enter "
 
 #: index.phtml:69
 msgid "Язык источника"
-msgstr ""
+msgstr "Source language"
 
 #: index.phtml:76
 msgid "Язык перевода"
-msgstr ""
+msgstr "Translation language"
 
 #: index.phtml:86
 msgid "Перевести сейчас"
-msgstr ""
+msgstr "Translate now"
 
 #: index.phtml:95 master.phtml:175
 msgid "Новости"
-msgstr ""
+msgstr "News"
 
 #: index.phtml:115
 msgid "Наша команда"
-msgstr ""
+msgstr "Our team"
 
 #: index.phtml:115
 msgid "Мы разработаем решение для вас"
-msgstr ""
+msgstr "We will develop a solution for you"
 
 #: index.phtml:121
 msgid "Ирина Шахметова"
-msgstr ""
+msgstr "Irina Shakhmetova"
 
 #: index.phtml:122
 msgid "Старший менеджер-редактор"
-msgstr ""
+msgstr "Senior Manager-Editor"
 
 #: index.phtml:126
 msgid "Виталий Москаленко"
-msgstr ""
+msgstr "Vitaly Moskalenko"
 
 #: index.phtml:127
 msgid "Старший программист/лингвист"
-msgstr ""
+msgstr "Senior Programmer / Linguist"
 
 #: index.phtml:132
 msgid "Елена Дарек"
-msgstr ""
+msgstr "Elena Darek"
 
 #: index.phtml:133
 msgid "Руководитель группы локализации"
-msgstr ""
+msgstr "Localization Team Leader"
 
 #: index.phtml:137
 msgid "Елизавета Иванова"
-msgstr ""
+msgstr "Elizaveta Ivanova"
 
 #: index.phtml:138
 msgid "Начальник отдела технического развития"
-msgstr ""
+msgstr "Head of Technical Development"
 
 #: index.phtml:147
 msgid "Узнать больше"
-msgstr ""
+msgstr "To learn more"
 
 #: master.phtml:75
 msgid "Мы Здесь (812) 212-85-06"
-msgstr ""
+msgstr "We are here (812) 212-85-06"
 
 #: master.phtml:88
 msgid "Выход"
-msgstr ""
+msgstr "Exit"
 
 #: master.phtml:90 master.phtml:196
 msgid "Вход"
-msgstr ""
+msgstr "Enter"
 
 #: master.phtml:91
 msgid "Регистрация"
-msgstr ""
+msgstr "Registration"
 
 #: master.phtml:106
 msgid "Сообщить об ошибке"
-msgstr ""
+msgstr "Report a bug"
 
 #: master.phtml:111
 msgid "ЛОКАЛИЗАЦИЯ"
-msgstr ""
+msgstr "LOCALIZATION"
 
 #: master.phtml:113
 msgid "УСЛУГИ ЛОКАЛИЗАЦИИ"
-msgstr ""
+msgstr "LOCALIZATION SERVICES"
 
 #: master.phtml:114
 msgid "ЛОКАЛИЗАЦИЯ ВЕБ САЙТОВ"
-msgstr ""
+msgstr "WEBSITES LOCALIZATION"
 
 #: master.phtml:115
 msgid "ЛОКАЛИЗАЦИЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ"
-msgstr ""
+msgstr "SOFTWARE LOCALIZATION"
 
 #: master.phtml:116
 msgid "ЛОКАЛИЗАЦИЯ КОМПЬЮТЕРНЫХ ИГР"
-msgstr ""
+msgstr "COMPUTER GAMES LOCALIZATION"
 
 #: master.phtml:117
 msgid "ЛОКАЛИЗАЦИЯ МУЛЬТИМЕДИА"
-msgstr ""
+msgstr "MULTIMEDIA LOCALIZATION"
 
 #: master.phtml:118
 msgid "ТРАНСКРЕАЦИЯ"
-msgstr ""
+msgstr "TRANSCREATION"
 
 #: master.phtml:122
 msgid "ПЕРЕВОД"
-msgstr ""
+msgstr "Translation"
 
 #: master.phtml:125
 msgid "УСЛУГИ ПЕРЕВОДА"
-msgstr ""
+msgstr "TRANSLATION SERVICES"
 
 #: master.phtml:126
 msgid "КЛАССИЧЕСКИЙ ПРЕВОД"
-msgstr ""
+msgstr "CLASSICAL TRANSLATION"
 
 #: master.phtml:127
 msgid "ЛЕКСИКОГРАФИЯ"
-msgstr ""
+msgstr "LEXICOGRAPHY"
 
 #: master.phtml:130 master.phtml:131
 msgid "ПЕРЕВОД ОНЛАЙН"
-msgstr ""
+msgstr "TRANSLATION ONLINE"
 
 #: master.phtml:133
 msgid "ТЕХНОЛОГИИ"
-msgstr ""
+msgstr "TECHNOLOGY"
 
 #: master.phtml:135
 msgid "НАШИ ТЕХНОЛОГИИ"
-msgstr ""
+msgstr "OUR TECHNOLOGY"
 
 #: master.phtml:136
 msgid "СТЕММЕР"
-msgstr ""
+msgstr "STEMMER"
 
 #: master.phtml:137
 msgid "QA-ТЕРМИНОЛОГИЯ"
-msgstr ""
+msgstr "QA-TERMINOLOGY"
 
 #: master.phtml:138
 msgid "QA-ПРОВЕРКА"
-msgstr ""
+msgstr "QA CHECK"
 
 #: master.phtml:139
 msgid "КОНТРОЛЬ КАЧЕСТВА"
-msgstr ""
+msgstr "QUALITY CONTROL"
 
 #: master.phtml:140
 msgid "TEXT TOKENIZER"
-msgstr ""
+msgstr "TEXT TOKENIZER"
 
 #: master.phtml:141
 msgid "ОЧИСТКА ОТ ТЕГОВ"
-msgstr ""
+msgstr "REMOVAL OF TAGS"
 
 #: master.phtml:142
 msgid "TMX ПРОЦЕССОР"
-msgstr ""
+msgstr "TMX PROCESSOR"
 
 #: master.phtml:143
 msgid "РАСПОЗНАВАНИЕ РЕЧИ"
-msgstr ""
+msgstr "SPEECH RECOGNITION"
 
 #: master.phtml:144
 msgid "АНАЛИЗАТОР СИНТАКСИСА"
-msgstr ""
+msgstr "SYNTAX ANALYZER"
 
 #: master.phtml:145
 msgid "ЧАСТОТНЫЙ СЛОВАРЬ"
-msgstr ""
+msgstr "FREQUENCY DICTIONARY"
 
 #: master.phtml:149 master.phtml:150
 msgid "НОВОСТИ"
-msgstr ""
+msgstr "NEWS"
 
 #: master.phtml:152
 msgid "БЛОГИ"
-msgstr ""
+msgstr "BLOGS"
 
 #: master.phtml:153
 msgid "О НАС"
-msgstr ""
+msgstr "About us"
 
 #: master.phtml:154
 msgid "КОНТАКТЫ"
-msgstr ""
+msgstr "CONTACTS"
 
 #: master.phtml:169
 msgid "Контакты"
-msgstr ""
+msgstr "Contacts"
 
 #: master.phtml:172
 msgid "Карта сайта"
-msgstr ""
+msgstr "Site map"
 
 #: master.phtml:203 master.phtml:239
 msgid "Пароль"
-msgstr ""
+msgstr "Password"
 
 #: master.phtml:227
 msgid "Фамилия"
-msgstr ""
+msgstr "Surname"
 
 #: master.phtml:231
 msgid "Имя"
-msgstr ""
+msgstr "Name"
 
 #: master.phtml:243
 msgid "Подтверждение"
-msgstr ""
+msgstr "Confirmation"
 
