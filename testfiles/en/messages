@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: egotech-localization\n"
 "POT-Creation-Date: 2018-01-16 13:38+0400\n"
-"PO-Revision-Date: 2019-03-06 10:18\n"
+"PO-Revision-Date: 2019-03-06 10:29\n"
 "Last-Translator: YuliaOv <yulia.ovchinnikova@egotranslating.ru>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -129,55 +129,55 @@ msgstr "Elena Darek"
 
 #: index.phtml:133
 msgid "Руководитель группы локализации"
-msgstr ""
+msgstr "Localization Team Leader"
 
 #: index.phtml:137
 msgid "Елизавета Иванова"
-msgstr ""
+msgstr "Elizaveta Ivanova"
 
 #: index.phtml:138
 msgid "Начальник отдела технического развития"
-msgstr ""
+msgstr "Head of Technical Development"
 
 #: index.phtml:147
 msgid "Узнать больше"
-msgstr ""
+msgstr "To learn more"
 
 #: master.phtml:75
 msgid "Мы Здесь (812) 212-85-06"
-msgstr ""
+msgstr "We are here (812) 212-85-06"
 
 #: master.phtml:88
 msgid "Выход"
-msgstr ""
+msgstr "Exit"
 
 #: master.phtml:90 master.phtml:196
 msgid "Вход"
-msgstr ""
+msgstr "Enter"
 
 #: master.phtml:91
 msgid "Регистрация"
-msgstr ""
+msgstr "Registration"
 
 #: master.phtml:106
 msgid "Сообщить об ошибке"
-msgstr ""
+msgstr "Report a bug"
 
 #: master.phtml:111
 msgid "ЛОКАЛИЗАЦИЯ"
-msgstr ""
+msgstr "LOCALIZATION"
 
 #: master.phtml:113
 msgid "УСЛУГИ ЛОКАЛИЗАЦИИ"
-msgstr ""
+msgstr "LOCALIZATION SERVICES"
 
 #: master.phtml:114
 msgid "ЛОКАЛИЗАЦИЯ ВЕБ САЙТОВ"
-msgstr ""
+msgstr "WEBSITES LOCALIZATION"
 
 #: master.phtml:115
 msgid "ЛОКАЛИЗАЦИЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ"
-msgstr ""
+msgstr "SOFTWARE LOCALIZATION"
 
 #: master.phtml:116
 msgid "ЛОКАЛИЗАЦИЯ КОМПЬЮТЕРНЫХ ИГР"
