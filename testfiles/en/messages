@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: egotech-localization\n"
 "POT-Creation-Date: 2018-01-16 13:38+0400\n"
-"PO-Revision-Date: 2019-03-06 10:29\n"
+"PO-Revision-Date: 2019-03-06 10:42\n"
 "Last-Translator: YuliaOv <yulia.ovchinnikova@egotranslating.ru>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -15,169 +15,168 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Crowdin-Project: egotech-localization\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /master/de/messages.po\n"
+"X-Crowdin-File: /master/en/messages.po\n"
 
 #: index.phtml:15
 msgid "Современный перевод"
-msgstr "Modern translation"
+msgstr ""
 
 #: index.phtml:17
 msgid "БЫСТРО"
-msgstr "FAST"
+msgstr ""
 
 #: index.phtml:18
 msgid "НАДЕЖНО"
-msgstr "SECURELY"
+msgstr ""
 
 #: index.phtml:19
 msgid "ТЕХНОЛОГИЧНО"
-msgstr "TECHNOLOGICALLY"
+msgstr ""
 
 #: index.phtml:25
 msgid "Наши Услуги"
-msgstr "Our Services"
+msgstr ""
 
 #: index.phtml:30
 msgid "Перевод"
-msgstr "Translated"
+msgstr ""
 
 #: index.phtml:31
 msgid "Мы предоставляем весь спектр услуг в области перевода - от транскреации до транслитерации."
-msgstr "We offer a full range of services in the field of translation from transkreacii to transliteration."
+msgstr ""
 
 #: index.phtml:32 index.phtml:39 index.phtml:48
 msgid "Подробнее"
-msgstr "Learn more"
+msgstr ""
 
 #: index.phtml:36
 msgid "Локализация"
-msgstr "Localization"
+msgstr ""
 
 #: index.phtml:37
 msgid "В условиях глобализации развитие бизнеса невозможно без адаптированных решений. Мы имеем большой опыт локализации любых решений:\n"
 "                       от веб-сайтов до мобильных приложений."
-msgstr "In the context of globalization, business development is impossible without adapted solutions. We have extensive experience localizing any solutions:\n"
-"                       from websites to mobile applications."
+msgstr ""
 
 #: index.phtml:43
 msgid "Технологии"
-msgstr "Technology"
+msgstr ""
 
 #: index.phtml:44
 msgid "Современный перевод невозможен без использования технологий. При переводе и локализации мы используем собственные программные решения."
-msgstr "Modern translation is impossible without the use of technology. When translating and localizing, we use our own software solutions."
+msgstr ""
 
 #: index.phtml:46
 msgid "Также Вы можете использовать автоматизированные решения, заказав разработку"
-msgstr "You can also use automated solutions by ordering the development"
+msgstr ""
 
 #: index.phtml:47
 msgid "у нас"
-msgstr "from us"
+msgstr ""
 
 #: index.phtml:56
 msgid "Рассчитать стоимость перевода"
-msgstr "Calculate the translation cost"
+msgstr ""
 
 #: index.phtml:63
 msgid "Введите "
-msgstr "Enter "
+msgstr ""
 
 #: index.phtml:69
 msgid "Язык источника"
-msgstr "Source language"
+msgstr ""
 
 #: index.phtml:76
 msgid "Язык перевода"
-msgstr "Translation language"
+msgstr ""
 
 #: index.phtml:86
 msgid "Перевести сейчас"
-msgstr "Translate now"
+msgstr ""
 
 #: index.phtml:95 master.phtml:175
 msgid "Новости"
-msgstr "News"
+msgstr ""
 
 #: index.phtml:115
 msgid "Наша команда"
-msgstr "Our team"
+msgstr ""
 
 #: index.phtml:115
 msgid "Мы разработаем решение для вас"
-msgstr "We will develop a solution for you"
+msgstr ""
 
 #: index.phtml:121
 msgid "Ирина Шахметова"
-msgstr "Irina Shakhmetova"
+msgstr ""
 
 #: index.phtml:122
 msgid "Старший менеджер-редактор"
-msgstr "Senior Manager-Editor"
+msgstr ""
 
 #: index.phtml:126
 msgid "Виталий Москаленко"
-msgstr "Vitaly Moskalenko"
+msgstr ""
 
 #: index.phtml:127
 msgid "Старший программист/лингвист"
-msgstr "Senior Programmer / Linguist"
+msgstr ""
 
 #: index.phtml:132
 msgid "Елена Дарек"
-msgstr "Elena Darek"
+msgstr ""
 
 #: index.phtml:133
 msgid "Руководитель группы локализации"
-msgstr "Localization Team Leader"
+msgstr ""
 
 #: index.phtml:137
 msgid "Елизавета Иванова"
-msgstr "Elizaveta Ivanova"
+msgstr ""
 
 #: index.phtml:138
 msgid "Начальник отдела технического развития"
-msgstr "Head of Technical Development"
+msgstr ""
 
 #: index.phtml:147
 msgid "Узнать больше"
-msgstr "To learn more"
+msgstr ""
 
 #: master.phtml:75
 msgid "Мы Здесь (812) 212-85-06"
-msgstr "We are here (812) 212-85-06"
+msgstr ""
 
 #: master.phtml:88
 msgid "Выход"
-msgstr "Exit"
+msgstr ""
 
 #: master.phtml:90 master.phtml:196
 msgid "Вход"
-msgstr "Enter"
+msgstr ""
 
 #: master.phtml:91
 msgid "Регистрация"
-msgstr "Registration"
+msgstr ""
 
 #: master.phtml:106
 msgid "Сообщить об ошибке"
-msgstr "Report a bug"
+msgstr ""
 
 #: master.phtml:111
 msgid "ЛОКАЛИЗАЦИЯ"
-msgstr "LOCALIZATION"
+msgstr ""
 
 #: master.phtml:113
 msgid "УСЛУГИ ЛОКАЛИЗАЦИИ"
-msgstr "LOCALIZATION SERVICES"
+msgstr ""
 
 #: master.phtml:114
 msgid "ЛОКАЛИЗАЦИЯ ВЕБ САЙТОВ"
-msgstr "WEBSITES LOCALIZATION"
+msgstr ""
 
 #: master.phtml:115
 msgid "ЛОКАЛИЗАЦИЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ"
-msgstr "SOFTWARE LOCALIZATION"
+msgstr ""
 
 #: master.phtml:116
 msgid "ЛОКАЛИЗАЦИЯ КОМПЬЮТЕРНЫХ ИГР"
